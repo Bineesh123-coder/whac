@@ -1,6 +1,4 @@
-Here's a sample `README.md` file for your Python bot project using PyAutoGUI and Pynput, along with instructions to include it in a Git repository:
 
----
 
 # Whack-a-Mole Bot
 
