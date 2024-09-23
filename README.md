@@ -56,10 +56,5 @@ python whackamolebot.py
 
 - Ensure that the image is visible on the screen, and that the resolution or scaling does not affect image recognition.
 
-## License
 
-This project is licensed under the MIT License.
 
----
-
-https://github.com/Bineesh123-coder/whack-a-mole-game-bot-
